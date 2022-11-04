@@ -1,2 +1,2 @@
 # hello-world
-Primeiro diretório feito com a  Cubos Academy
+Meu Primeiro Diretório Feito Com a Cubos Academy
